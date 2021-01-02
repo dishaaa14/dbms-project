@@ -13,10 +13,10 @@ echo '<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="nav-link active" aria-current="page" href="/miniproject/index.php">Home |</a>
       </li>
       <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="/crp/add.html">Add A Recipe |</a>
+      <a class="nav-link active" aria-current="page" href="/dbms project/add.html">Add A Recipe |</a>
     </li>
     <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="/crp/search.html">Search</a>
+    <a class="nav-link active" aria-current="page" href="/dbms project/search.html">Search</a>
   </li>
     </ul>';
     if(isset($_SESSION['loggedin'])&& $_SESSION['loggedin']==true){

@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Cormorant|Italiana|Montserrat&display=swap");
 body {
   box-sizing: border-box;
-  background: url("https://images.unsplash.com/photo-1532768907235-78653b7dc71d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80") no-repeat;
+  background: url("https://images.unsplash.com/photo-1550935770-d58cbf30c003?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=925&q=80") no-repeat;
   background-size: cover;
 }
 
@@ -14,7 +14,7 @@ body, html {
 
 #cont {
   font-family: "Montserrat", sans-serif;
-  background: url("https://images.unsplash.com/photo-1532768907235-78653b7dc71d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80") no-repeat;
+  background: url("https://images.unsplash.com/photo-1550935770-d58cbf30c003?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=925&q=80") no-repeat;
   background-size: cover;
   height: 100vh;
   width: 100vw;
@@ -31,10 +31,11 @@ body, html {
 =========================================================*/
 header {
   position: fixed;
-  padding-left: 2em;
+  padding-left: 1.5em;
+  padding-top: 3em;
   transition: 0.4s;
   transition: background-color 0s;
-  color:black;
+  color: white;
 }
 header h1 {
   font-size: 40px;
